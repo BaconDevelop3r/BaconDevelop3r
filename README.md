@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @BaconDevelop3r
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include<iostream>
+using namespace std;
 
-<!---
-BaconDevelop3r/BaconDevelop3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+int main() {
+	//in here you can add variable, cout % cin
+}
